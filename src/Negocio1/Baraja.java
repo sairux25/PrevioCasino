@@ -21,6 +21,7 @@ public class Baraja {
         this.crearCartas();
     }
 public void nada(){
+    int hola;
 
 }
     private ArrayList<Carta> crearCartas() {
